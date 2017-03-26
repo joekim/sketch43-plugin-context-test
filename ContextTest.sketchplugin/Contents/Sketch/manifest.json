@@ -1,0 +1,16 @@
+{
+    "name" : "Context Test",
+    "identifier" : "com.happydojo.context-test",
+    "version" : "1.0",
+    "description" : "Test passing context variables",
+    "authorEmail" : "joe.kim@gmail.com",
+    "author" : "Joseph Kim",
+    "commands" : [    
+      {
+        "script" : "run.js",
+        "handler" : "onRun",
+        "name" : "Context Test",
+        "identifier" : "contextTest"
+      }      
+    ]
+}
