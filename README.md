@@ -1,9 +1,8 @@
 # Test Passing parameters to a sketch plugin
 
 The goal of this repository is to get a working example of passing parameters to sketch plugin from the command line. This was created to work against the sketch43 beta.
-```
-Update (2017-05-16) - Verified passing context to sketch plugin from command line now works on the released version of sketch44.
-```
+
+- Update (2017-05-16) - Verified passing context to sketch plugin from command line now works on the released version of sketch44.
 
 To install plugin place "ContextTest.sketchplugin" in your plugin directory: 
   ```
